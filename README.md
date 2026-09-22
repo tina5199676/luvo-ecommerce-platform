@@ -258,7 +258,7 @@ luvo-ecommerce/
 #### 1. Clone 專案
 
 ```
-git clone https://github.com/tina0326-88/luvo-ecommerce.git
+git clone https://github.com/tina5199676/luvo-ecommerce.git
 cd luvo-ecommerce
 ```
 
